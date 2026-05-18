@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "home": "Home",
+    "tech": "Tech Stack",
+    "projects": "Projects",
+    "timeline": "Timeline",
+    "canvas": "Canvas Lab"
+  },
+  "hero": {
+    "title": "Omen-xy",
+    "subtitle": "Full-Stack Developer / Tech Explorer / Product Builder",
+    "description": "Passionate about solving real problems with code, focused on Web full-stack development and technical productization",
+    "viewProjects": "View Projects",
+    "viewTech": "Tech Stack",
+    "canvasLab": "Canvas Lab"
+  },
+  "stats": {
+    "techStack": "Tech Stack",
+    "projects": "Projects",
+    "years": "Years Exp"
+  },
+  "tech": {
+    "title": "Tech Stack",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "devops": "DevOps",
+      "exploring": "Exploring"
+    }
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "timeline": {
+    "title": "Journey"
+  },
+  "footer": {
+    "nav": "Navigation",
+    "social": "Social",
+    "more": "More",
+    "wechat": "WeChat",
+    "github": "GitHub",
+    "juejin": "Juejin",
+    "about": "About",
+    "canvas": "Canvas Lab",
+    "copyright": "Copyright © {year} Omen-xy — All rights reserved",
+    "disclaimer": "For personal learning and knowledge organization, for exchange and reference only",
+    "email": "Email",
+    "icp": "ICP License"
+  },
+  "cta": {
+    "title": "Follow Me",
+    "description": "Follow my WeChat public account for the latest tech articles and product updates"
+  },
+  "badges": {
+    "product": "Product",
+    "opensource": "Open Source",
+    "experimental": "Experimental"
+  },
+  "social": {
+    "wechat": "WeChat"
+  },
+  "projectsData": {
+    "tiktok": "TikTok analytics platform with video tracking, creator analysis, and trend insights",
+    "electron": "Cross-platform desktop chat app built with Electron, supporting E2E encryption",
+    "canvasLab": "Canvas / WebGL learning and experimentation project, exploring browser graphics"
+  },
+  "timelineData": {
+    "fullstackTitle": "Full-Stack Development",
+    "fullstackDesc": "Deep dive into Next.js/React full-stack, building production-grade projects",
+    "engineeringTitle": "Frontend Engineering",
+    "engineeringDesc": "Mastered TypeScript, Monorepo, CI/CD and other engineering systems",
+    "frameworkTitle": "Framework Advanced",
+    "frameworkDesc": "Transitioned from Vue to React ecosystem, learned Next.js and SSR",
+    "beginnerTitle": "Started Learning",
+    "beginnerDesc": "Began learning web frontend development, mastered HTML/CSS/JavaScript basics"
+  },
+  "language": {
+    "switch": "Switch Language"
+  }
+}
