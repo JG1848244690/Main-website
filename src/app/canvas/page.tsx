@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Canvas 实验室 - kskbl",
+  title: "Canvas 实验室 - 序言-xy",
   description: "Canvas 技术学习与实验",
 };
 

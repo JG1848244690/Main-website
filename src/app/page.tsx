@@ -54,7 +54,7 @@ export default function Home() {
                 <span className="text-3xl">K</span>
               </div>
             </div>
-            <h1 className="text-5xl font-bold">kskbl</h1>
+            <h1 className="text-5xl font-bold">序言-xy</h1>
             <p className="py-6 text-lg opacity-80">
               全栈开发者 / 技术探索者 / 产品构建者
             </p>
