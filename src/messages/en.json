@@ -3,16 +3,14 @@
     "home": "Home",
     "tech": "Tech Stack",
     "projects": "Projects",
-    "timeline": "Timeline",
-    "canvas": "Canvas Lab"
+    "timeline": "Timeline"
   },
   "hero": {
-    "title": "Omen-xy",
-    "subtitle": "Full-Stack Developer / Tech Explorer / Product Builder",
-    "description": "Passionate about solving real problems with code, focused on Web full-stack development and technical productization",
+    "title": "Omen",
+    "subtitle": "Frontend Developer | AI Tools Enthusiast",
+    "description": "Passionate about solving real problems with code, focused on Web full-stack development and AI tools exploration",
     "viewProjects": "View Projects",
-    "viewTech": "Tech Stack",
-    "canvasLab": "Canvas Lab"
+    "viewTech": "Tech Stack"
   },
   "stats": {
     "techStack": "Tech Stack",
@@ -23,10 +21,9 @@
     "title": "Tech Stack",
     "categories": {
       "frontend": "Frontend",
-      "backend": "Backend",
-      "database": "Database",
-      "devops": "DevOps",
-      "exploring": "Exploring"
+      "ui": "UI Libraries",
+      "tools": "Toolchain",
+      "ai": "AI / Other"
     }
   },
   "projects": {
@@ -39,44 +36,48 @@
     "nav": "Navigation",
     "social": "Social",
     "more": "More",
-    "wechat": "WeChat",
     "github": "GitHub",
-    "juejin": "Juejin",
     "about": "About",
-    "canvas": "Canvas Lab",
-    "copyright": "Copyright © {year} Omen-xy — All rights reserved",
+    "copyright": "Copyright © {year} Omen — All rights reserved",
     "disclaimer": "For personal learning and knowledge organization, for exchange and reference only",
     "email": "Email",
     "icp": "ICP License"
   },
   "cta": {
-    "title": "Follow Me",
-    "description": "Follow my WeChat public account for the latest tech articles and product updates"
+    "title": "Contact Me",
+    "description": "Feel free to reach out if you're interested in tech discussions or project collaboration"
   },
   "badges": {
     "product": "Product",
     "opensource": "Open Source",
-    "experimental": "Experimental"
+    "experimental": "Experimental",
+    "featured": "Featured"
   },
   "social": {
     "wechat": "WeChat"
   },
   "projectsData": {
-    "tiktok": "TikTok analytics platform with video tracking, creator analysis, and trend insights",
-    "electron": "Cross-platform desktop chat app built with Electron, supporting E2E encryption",
+    "athena": "Full-stack online learning platform with video playback, online coding, question recommendation, monthly planning and algorithm orchestration",
+    "tiktools": "TikTok analytics Chrome extension, 200+ installs in 40 days, featured on Chrome Web Store",
     "canvasLab": "Canvas / WebGL learning and experimentation project, exploring browser graphics"
   },
   "timelineData": {
-    "fullstackTitle": "Full-Stack Development",
-    "fullstackDesc": "Deep dive into Next.js/React full-stack, building production-grade projects",
-    "engineeringTitle": "Frontend Engineering",
-    "engineeringDesc": "Mastered TypeScript, Monorepo, CI/CD and other engineering systems",
-    "frameworkTitle": "Framework Advanced",
-    "frameworkDesc": "Transitioned from Vue to React ecosystem, learned Next.js and SSR",
-    "beginnerTitle": "Started Learning",
-    "beginnerDesc": "Began learning web frontend development, mastered HTML/CSS/JavaScript basics"
+    "work1Title": "Frontend Developer",
+    "work1Desc": "Frontend project development and maintenance",
+    "work2Title": "Frontend Developer (Intern)",
+    "work2Desc": "Frontend development and data visualization",
+    "project1Title": "Athena Learning Platform",
+    "project1Desc": "Full-stack project development",
+    "edu1Title": "Software Engineering",
+    "edu1Desc": "North University of China"
   },
   "language": {
     "switch": "Switch Language"
+  },
+  "techStackItems": {
+    "frontend": ["React", "Next.js", "Vue3", "TypeScript", "Tailwind CSS"],
+    "ui": ["shadcn", "daisyUI", "Ant Design", "Vant"],
+    "tools": ["Git", "Webpack", "Vite", "Playwright", "Vitest"],
+    "ai": ["AI Agent", "RAG", "Chrome Extension", "Electron", "UniApp"]
   }
 }

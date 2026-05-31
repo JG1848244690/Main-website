@@ -34,14 +34,11 @@ export default function Footer() {
         </nav>
         <nav>
           <h6 className="footer-title">{t('social')}</h6>
-          <a className="link link-hover" href="#">{t('wechat')}</a>
-          <a className="link link-hover" href="#">{t('github')}</a>
-          <a className="link link-hover" href="#">{t('juejin')}</a>
+          <a className="link link-hover" href="https://github.com/JG1848244690/" target="_blank" rel="noopener noreferrer">{t('github')}</a>
         </nav>
         <nav>
           <h6 className="footer-title">{t('more')}</h6>
-          <Link className="link link-hover" href={`${localePath}/canvas`}>{t('canvas')}</Link>
-          <a className="link link-hover" href="#">{t('about')}</a>
+                    <a className="link link-hover" href="#">{t('about')}</a>
         </nav>
       </div>
       <div className="footer sm:footer-horizontal footer-center p-4 border-t border-base-content/10">

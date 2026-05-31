@@ -38,7 +38,6 @@ export default function Navbar() {
             <li><a href={getHashLink('#tech')}>{t('tech')}</a></li>
             <li><a href={getHashLink('#projects')}>{t('projects')}</a></li>
             <li><a href={getHashLink('#timeline')}>{t('timeline')}</a></li>
-            <li><Link href={`${localePath}/canvas`}>{t('canvas')}</Link></li>
           </ul>
         </div>
         <Link className="btn btn-ghost text-xl font-bold" href={localePath || '/'}>序言-xy</Link>
@@ -49,7 +48,6 @@ export default function Navbar() {
           <li><a href={getHashLink('#tech')}>{t('tech')}</a></li>
           <li><a href={getHashLink('#projects')}>{t('projects')}</a></li>
           <li><a href={getHashLink('#timeline')}>{t('timeline')}</a></li>
-          <li><Link href={`${localePath}/canvas`}>{t('canvas')}</Link></li>
         </ul>
       </div>
       <div className="navbar-end gap-2">

@@ -2,3 +2,9 @@
 @plugin "daisyui" {
   themes: all;
 }
+@import "animate.css";
+
+/* 中文字体使用 Caveat */
+:lang(zh) {
+  font-family: 'Caveat', cursive;
+}

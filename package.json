@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "daisyui": "^5.5.19",
     "next": "16.2.5",
     "next-intl": "^4.12.0",
