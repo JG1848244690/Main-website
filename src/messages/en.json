@@ -3,7 +3,9 @@
     "home": "Home",
     "tech": "Tech Stack",
     "projects": "Projects",
-    "timeline": "Timeline"
+    "timeline": "Timeline",
+    "blog": "Blog",
+    "about": "About"
   },
   "hero": {
     "title": "Omen",
@@ -38,6 +40,7 @@
     "more": "More",
     "github": "GitHub",
     "about": "About",
+    "blog": "Tech Blog",
     "copyright": "Copyright © {year} Omen — All rights reserved",
     "disclaimer": "For personal learning and knowledge organization, for exchange and reference only",
     "email": "Email",

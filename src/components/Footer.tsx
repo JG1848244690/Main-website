@@ -35,10 +35,11 @@ export default function Footer() {
         <nav>
           <h6 className="footer-title">{t('social')}</h6>
           <a className="link link-hover" href="https://github.com/JG1848244690/" target="_blank" rel="noopener noreferrer">{t('github')}</a>
+          <Link className="link link-hover" href={`${localePath}/blog`}>{t('blog')}</Link>
         </nav>
         <nav>
           <h6 className="footer-title">{t('more')}</h6>
-                    <a className="link link-hover" href="#">{t('about')}</a>
+          <Link className="link link-hover" href={`${localePath}/about`}>{t('about')}</Link>
         </nav>
       </div>
       <div className="footer sm:footer-horizontal footer-center p-4 border-t border-base-content/10">

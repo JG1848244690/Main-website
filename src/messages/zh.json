@@ -3,7 +3,9 @@
     "home": "首页",
     "tech": "技术栈",
     "projects": "项目",
-    "timeline": "历程"
+    "timeline": "历程",
+    "blog": "博客",
+    "about": "关于我"
   },
   "hero": {
     "title": "序言",
@@ -38,6 +40,7 @@
     "more": "更多",
     "github": "GitHub",
     "about": "关于我",
+    "blog": "技术博客",
     "copyright": "Copyright © {year} 序言 — All rights reserved",
     "disclaimer": "个人学习与知识整理用途，仅供交流参考",
     "email": "联系邮箱",

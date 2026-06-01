@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="og" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="oklch(0.25 0.08 280)"/>
+      <stop offset="1" stop-color="oklch(0.45 0.15 260)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og)"/>
+  <g fill="white" font-family="system-ui, sans-serif" text-anchor="middle">
+    <text x="600" y="280" font-size="64" font-weight="700">序言-xy</text>
+    <text x="600" y="350" font-size="32" opacity="0.9">主前端 · 可全栈工程师</text>
+    <text x="600" y="410" font-size="20" opacity="0.7">React 19 / Next.js 16 · Chrome Extension · AI Tools</text>
+  </g>
+</svg>
