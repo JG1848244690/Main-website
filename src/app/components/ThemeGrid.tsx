@@ -41,10 +41,10 @@ const themes = [
 ];
 
 export default function ThemeGrid() {
-  const [current, setCurrent] = useState("light");
+  const [current, setCurrent] = useState("dark");
 
   useEffect(() => {
-    setCurrent(localStorage.getItem("theme") || "light");
+    setCurrent(localStorage.getItem("theme") || "dark");
   }, []);
 
   function select(name: string) {
